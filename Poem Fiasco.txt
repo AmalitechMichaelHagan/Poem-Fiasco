@@ -1,0 +1,20 @@
+1.git checkout HEAD road-not-taken.txt
+
+3.git checkout -- oven-bird.txt
+
+5.git diff fire-and-ice.txt
+
+6.git add road-not-taken.txt oven-bird.txt fire-and-ice.txt
+
+7.git reset fire-and-ice.txt
+
+8.git commit -m"first commit"
+
+10.git add road-not-taken.txt oven-bird.txt fire-and-ice.txt
+
+11.git commit -m"Copyright Subscript"
+
+12. git log
+    git reset 8a8cf5a
+
+13. git checkout HEAD *
